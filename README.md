@@ -1,6 +1,6 @@
 # Cleaning of Human Activity Recognition Using Smartphones Dataset
 
-## Components:
+## Components
 The following files are contained inside this repository: 
 - README.md (Instruction on using this repository)
 - CodeBook.md (Summary of the dataset and steps to clean it)
